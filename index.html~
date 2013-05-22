@@ -23,7 +23,6 @@
 
 <script type="text/javascript" src="jquery.savant.js"></script>
 <script type="text/javascript" src="jquery.svg.js"></script>
-<script type="text/javascript" src="sample.js"></script>
 <script type="text/javascript">
 var svg = null;
 var g = null;

@@ -186,7 +186,7 @@
             var defs = this.map(function _map() {
                 return create(this)[op](hash);
             }).toArray();
-	    console.info("Identity Defs:%o", defs);
+
             // call the cb when were done and return the deffered.
             return $.when.apply($, defs).then(hash.cb);
 

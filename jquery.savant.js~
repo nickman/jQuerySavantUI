@@ -54,7 +54,6 @@
 				console.info("Savant Init:%o", rev);
 			});
 		}
-		return this;
 	};
 	
 	function SavantWidget(id) {
